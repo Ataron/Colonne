@@ -1,7 +1,7 @@
--- Mod_Colonnes 
+-- Mod_Colonne 
 -- -= Lua Minetest Steinheim =-
--- Mod créé par Ataron 
--- Licence : Libre de droits
+-- Mod cree par Ataron 
+-- License : Libre de droits
 
 --==============--
 -- REGISTER NODE --
